@@ -1,0 +1,18 @@
+
+header {
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(206, 205, 199);
+    font-family: cursive;
+    
+}
+a{
+        display: inline-block;
+        margin-right: 10px;
+        padding: 5px 10px;
+}
+svg {
+            width: 18px;
+           margin-right: 5px;
+        }
+    

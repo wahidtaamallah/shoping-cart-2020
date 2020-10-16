@@ -1,0 +1,11 @@
+
+nav .nav-cart{
+    cursor: pointer;
+    position: relative;
+}
+
+nav ul li{
+    list-style: none;
+    display: inline block;
+}
+ 
